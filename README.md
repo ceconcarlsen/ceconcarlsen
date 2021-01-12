@@ -6,7 +6,8 @@ Eu me chamo Gabriel Cecon e sou estudante de Ciência da Computação pela FCT-U
 - Inglês: Conversação, redação e leitura - Avançado-Superior. CCAA (CERF B2).
 - Buscando um significado e assumindo resposabilidades.
 
-Email: ceconcarlsen@gmail.com --
+Email: ceconcarlsen@gmail.com 
+
 Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen 
 
 
