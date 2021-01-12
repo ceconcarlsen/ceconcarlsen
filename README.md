@@ -1,6 +1,6 @@
-### Oi 🙃
+### Oi, tudo bem?
 
-Eu me chamo Gabriel Cecon e sou estudante de Ciência da Computação pela FCT-UNESP Presidente Prudente . Formado como técnico em Fabricação Mecânica pelo SENAI .
+Eu me chamo Gabriel Cecon e sou estudante de Ciência da Computação pela FCT-UNESP Presidente Prudente
 
 - Fundamentos em PYTHON, JAVA, JavaScript (HTML/CSS), SQL, Assembly, SML e principalmente C.
 - Inglês: Conversação, redação e leitura - Avançado-Superior. CCAA (CERF B2).
