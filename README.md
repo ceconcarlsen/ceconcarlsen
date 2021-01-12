@@ -1,16 +1,15 @@
-### Hi there 👋
+### Oi 👌
 
 <!--
 **ceconcarlsen/ceconcarlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá, me chamo Gabriel Cecon e sou estudante de Ciência da Computação pela FCT-UNESP Presidente Prudente 😎. Formado como técnico em Fabricação Mecânica pelo SENAI 🎓.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tenho fundamentos em PYTHON, JAVA, JavaScript (HTML/CSS), SQL, Assembly, SML e principalmente C.
+- Inglês: Coversação, redação e leitura - Avançado-Superior. CCAA (CERF B2).
+- Buscando um significado e assumindo resposabilidades.
+
++ sobre mim em: https://www.linkedin.com/in/gabriel-cecon-carlsen .
+
+    
+  
