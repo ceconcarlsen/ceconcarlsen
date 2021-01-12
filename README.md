@@ -1,4 +1,4 @@
-### Oi, tudo bem?
+### Oi
 
 Eu me chamo Gabriel Cecon e sou estudante de Ciência da Computação pela FCT-UNESP Presidente Prudente
 
