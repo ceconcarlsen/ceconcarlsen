@@ -4,7 +4,7 @@
 
 - Fundamentos em PYTHON, JAVA, JavaScript (HTML/CSS), SQL, Assembly, SML e principalmente C.
 - Inglês: Conversação, redação e leitura - Avançado-Superior. CCAA (CERF B2).
-- Buscando um significado e assumindo resposabilidades.
+- Buscando um significado e assumindo responsabilidades.
 
 Email: ceconcarlsen@gmail.com 
 Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen 
