@@ -1,5 +1,6 @@
-### PT-BB
-### OLÁ
+### PT-BR :brazil:
+
+### Olá
 
  Meu nome é Gabriel Cecon Carlsen e sou estudante de Ciência da Computação pela FCT-UNESP Presidente Prudente.
 
