@@ -1,5 +1,5 @@
 ### PT-BR 
-:brazil:
+<span>&#x1f1e7;&#x1f1f7;</span>
 ### Olá
 
  Meu nome é Gabriel Cecon Carlsen e sou estudante de Ciência da Computação pela FCT-UNESP Presidente Prudente.
