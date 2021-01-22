@@ -7,6 +7,7 @@
 - Buscando um significado e assumindo responsabilidades.
 
 Email: ceconcarlsen@gmail.com 
+
 Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen 
 
 
