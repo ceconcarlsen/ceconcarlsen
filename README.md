@@ -1,5 +1,5 @@
-### PT-BR Flag: Brazil on Google Android 11.0 December 2020 Feature Drop
-
+### PT-BR 
+:brazil:
 ### Olá
 
  Meu nome é Gabriel Cecon Carlsen e sou estudante de Ciência da Computação pela FCT-UNESP Presidente Prudente.
