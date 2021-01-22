@@ -1,4 +1,4 @@
-### PT-BR <span>&#x1f1e7;&#x1f1f7;</span>
+### PT-BR Flag: Brazil on Google Android 11.0 December 2020 Feature Drop
 
 ### Olá
 
