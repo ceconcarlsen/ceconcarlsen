@@ -1,4 +1,4 @@
-### PT 🇧🇷
+### PT :brazil:
 ### Olá
 
  Meu nome é Gabriel Cecon Carlsen e sou estudante de Ciência da Computação pela FCT-UNESP Presidente Prudente SP/BRASIL
@@ -11,7 +11,7 @@ Email: ceconcarlsen@gmail.com
 Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen 
 
 
-### US 🇺🇸
+### US :us:
 ### Hello
 
  My name is Gabriel Cecon Carlsen and i'm a Computer Science Student at FCT-UNESP Presidennte Prudente SP/BRAZIL.
