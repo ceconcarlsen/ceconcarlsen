@@ -7,9 +7,6 @@
 - Inglês: Conversação, redação e leitura - Avançado-Superior. CCAA (CERF B2).
 - Buscando um significado e assumindo responsabilidades.
 
-Email: ceconcarlsen@gmail.com  
-Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen 
-
 
 ### US :us:
 ### Hello
@@ -22,5 +19,7 @@ Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen
 
 Email: ceconcarlsen@gmail.com  
 Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen 
+
+
     
   
