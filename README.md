@@ -11,7 +11,7 @@
 ### :us:
 ### Hello
 
- My name is Gabriel Cecon Carlsen and i'm a Computer Science Student at FCT-UNESP Presidennte Prudente SP/BRAZIL.
+ My name is Gabriel Cecon Carlsen and i'm a Computer Science Student at FCT-UNESP Presidente Prudente SP/BRAZIL.
 
 - Fundamentals in PYTHON, JAVA, JavaScript (HTML/CSS), SQL, Assembly, SML and mainly C.
 - English: Conversation, writing and reading - Advanced-Superior. CCAA (CERF B2).
