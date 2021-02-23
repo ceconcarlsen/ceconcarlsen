@@ -5,7 +5,8 @@
 
 - Fundamentos em JAVA, JavaScript (HTML/CSS), SQL, Assembly, SML e principalmente C.
 - Inglês: Conversação, redação e leitura - Avançado-Superior. CCAA (CERF B2).
-- Buscando um significado e assumindo responsabilidades.
+
+ Interesse em tecnologia, politica, economia e comportamento humano. Buscando um significado e assumindo responsabilidades.
 
 
 ### :us:
@@ -15,7 +16,8 @@
 
 - Fundamentals in JAVA, JavaScript (HTML/CSS), SQL, Assembly, SML and mainly C.
 - English: Conversation, writing and reading - Advanced-Superior. CCAA (CERF B2).
-- Seeking for a meaning and assuming responsability.
+
+Interest in technology, politcs, economics and human behavior. Seeking for a meaning and assuming responsability.
 
 Email: ceconcarlsen@gmail.com  
 Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen 
