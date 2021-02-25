@@ -17,7 +17,7 @@
 - Fundamentals in JAVA, JavaScript (HTML/CSS), SQL, Assembly, SML and mainly C.
 - English: Conversation, writing and reading - Advanced-Superior. CCAA (CERF B2).
 
-Interest in technology, politcs, economics and human behavior. Seeking for a meaning and assuming responsability.
+Interest in technology, politics, economics and human behavior. Seeking for a meaning and assuming responsability.
 
 Email: ceconcarlsen@gmail.com  
 Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen 
