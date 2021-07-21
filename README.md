@@ -17,7 +17,7 @@
 - Fundamentals in Python, JAVA, PHP, JavaScript (HTML/CSS), SQL, Assembly and mainly C.
 - English: Conversation, writing and reading - Advanced-Superior. CCAA (CERF B2).
 
-Loved by technology, politics, economics and human behavior.
+In love with technology, politics, economics and human behavior.
 
 Email: ceconcarlsen@gmail.com  
 Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen 
