@@ -1,5 +1,5 @@
 # Olá, sou o Gabriel Cecon 😎 
-## Programador em desenvolvimento 🖥️🖱️ 
+## Estudante de Ciência da Computação 🖥️🖱️ 
 
 <div>
   <a href="https://github.com/ceconcarlsen">
