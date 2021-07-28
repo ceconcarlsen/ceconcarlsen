@@ -1,4 +1,4 @@
-# Olá! sou o Gabriel Cecon 😎 
+# Olá! sou o Gabriel Cecon 🙋‍♂️
 ## Estudante de Ciência da Computação 🖥️🖱️ 
 
 <div>
