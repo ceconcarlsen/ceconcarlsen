@@ -1,27 +1,38 @@
-### :brazil: 
-### Olá
+# Opa ! sou o Gabriel Cecon 😎 
+## Seja bem-vindo ao meu laboratório de programação 🖥🖱
 
- Meu nome é Gabriel Cecon Carlsen e sou estudante de Ciência da Computação pela FCT-UNESP Presidente Prudente SP-BRASIL.
-
-- Fundamentos em Python, JAVA, PHP, JavaScript (HTML/CSS), SQL, Assembly e principalmente C.
-- Inglês: Conversação, redação e leitura - Avançado-Superior. CCAA (CERF B2).
-
- Interesse em tecnologia, politica, economia e comportamento humano.
-
-
-### :us:
-### Hello
-
- My name is Gabriel Cecon Carlsen and i'm a Computer Science Student at FCT-UNESP Presidente Prudente SP-BRAZIL.
-
-- Fundamentals in Python, JAVA, PHP, JavaScript (HTML/CSS), SQL, Assembly and mainly C.
-- English: Conversation, writing and reading - Advanced-Superior. CCAA (CERF B2).
-
-In love with technology, politics, economics and human behavior.
-
-Email: ceconcarlsen@gmail.com  
-Linkedin: https://www.linkedin.com/in/gabriel-cecon-carlsen 
-
-
-    
-  
+<div>
+  <a href="https://github.com/ceconcarlsen">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ceconcarlsen&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceconcarlsen&layout=compact&langs_count=7&theme=react"/>
+</div>
+ 
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+</div>
+ 
+ ##
+ 
+<!-- <div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+ </div>
+!-->
+ 
+ <div>
+  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ 
+ 
+ 
+ ![teste](https://gifer.com/en/3nRK)
+ 
+ 
