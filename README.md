@@ -1,7 +1,7 @@
 # Olaaa! sou o Gabriel Cecon 🙋‍♂️
 ## Estudante de Ciência da Computação 🖥️🖱️ 
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
-- Em busca do FullStack 
+- Tenho o objetivo de me tornarn desenvolvedor FullStack 
 
 <div>
   <a href="https://github.com/ceconcarlsen">
