@@ -1,5 +1,5 @@
 # Olaaa! sou o Gabriel Cecon 🙋‍♂️
-## Estudante de Ciência da Computação 🖥️🖱️ 
+## Estudante de Ciência da Computação / Desenvolvedor front-end mobile
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
 
 <div>
