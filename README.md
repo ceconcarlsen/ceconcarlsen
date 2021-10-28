@@ -1,5 +1,5 @@
 # Olaaa! sou o Gabriel Cecon 🙋‍♂️
-## Estudante de Ciência da Computação / Front-end Intern
+## Estudante de Ciência da Computação / Frontend Developer
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
 
 <div>
