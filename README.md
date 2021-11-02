@@ -2,6 +2,8 @@
 ## Estudante de Ciência da Computação / Frontend Developer
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
 
+### Atualmente focando em React/ReactNative e Typescript
+
 <div>
   <a href="https://github.com/ceconcarlsen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceconcarlsen&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
