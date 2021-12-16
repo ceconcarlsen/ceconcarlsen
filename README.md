@@ -34,6 +34,7 @@
  <div>
   <a href = "mailto:ceconcarlsen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-cecon-carlsen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://stackoverflow.com/users/16525322/gabriel-cecon-carlsen" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"></a> 
  </div>
   
  ##
