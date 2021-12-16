@@ -1,5 +1,5 @@
 # Olaaa! sou o Gabriel Cecon 🙋‍♂️
-## Estudante de Ciência da Computação / Em busca do Full-stack
+## Estudante de Ciência da Computação / Em busca do Full-Stack
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
 
 ### Atualmente focando em React/ReactNative e Typescript
