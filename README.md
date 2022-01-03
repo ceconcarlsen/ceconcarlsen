@@ -2,7 +2,7 @@
 ## Estudante de Ciência da Computação / Em busca do Full-Stack
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
 
-### Atualmente focando em React/ReactNative e Typescript
+### Atualmente focando em React/Typescript
 
 <div>
   <a href="https://github.com/ceconcarlsen">
