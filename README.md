@@ -1,6 +1,6 @@
 # Olaaa! sou o Gabriel Cecon 🙋‍♂️
 ## Estudante de Ciência da Computação / Em busca do Full-Stack
-## Membro de desenvolvimento EJCOMP (Empresa Junior de Computação) - UNESP
+## Membro de desenvolvimento EJCOMP (Empresa Junior da Computação)
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
 
 ### Atualmente focando em React/Typescript
