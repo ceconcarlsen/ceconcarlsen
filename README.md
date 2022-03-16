@@ -1,7 +1,7 @@
 # Olaaa! sou o Gabriel Cecon 🙋‍♂️
-## Estudante de Ciência da Computação / Em busca do Full-Stack
 ## Estágiario frontend pela MBLabs
-## Membro de desenvolvimento EJCOMP (Empresa Junior da Computação)
+## Membro de desenvolvimento EJCOMP UNESP (Empresa Junior da Computação)
+## Estudante de Ciência da Computação UNESP - Presidente Prudente
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
 
 ### Atualmente focando em React/Typescript
