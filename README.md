@@ -1,5 +1,6 @@
 # Olaaa! sou o Gabriel Cecon 🙋‍♂️
 ## Estudante de Ciência da Computação / Em busca do Full-Stack
+## Estágiario frontend pela MBLabs (React/ReactNative)
 ## Membro de desenvolvimento EJCOMP (Empresa Junior da Computação)
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
 
