@@ -1,5 +1,5 @@
 # Olaaa! sou o Gabriel Cecon 🙋‍♂️
-## Desenvolvedor front-end MBLabs
+## Desenvolvedor pela MBLabs
 ## Membro de desenvolvimento EJCOMP UNESP (Empresa Junior da Computação)
 ## Estudante de Ciência da Computação UNESP - Presidente Prudente
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
