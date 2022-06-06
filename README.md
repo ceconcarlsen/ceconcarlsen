@@ -4,7 +4,7 @@
 ## Estudante de Ciência da Computação UNESP - Presidente Prudente
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
 
-### Atualmente focando no FullStack (React, Nest, Express, MongoDB, TypeScript)
+### Atualmente focando FullStack (React, Nest, Express, MongoDB, TypeScript)
 
 <div>
   <a href="https://github.com/ceconcarlsen">
