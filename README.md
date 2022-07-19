@@ -3,8 +3,7 @@
 ## Membro de desenvolvimento EJCOMP UNESP (Empresa Junior da Computação)
 ## Estudante de Ciência da Computação UNESP - Presidente Prudente
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
-
-### Atualmente focando FullStack (React, Next, Nest, Express, MongoDB, TypeScript)
+### Atualmente focando FullStack 
 
 <div>
   <a href="https://github.com/ceconcarlsen">
