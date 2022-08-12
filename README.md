@@ -1,9 +1,8 @@
 # Olaaa! sou o Gabriel Cecon 🙋‍♂️
-## Desenvolvedor pela MBLabs
+## Desenvolvedor FullStack
 ## Membro de desenvolvimento EJCOMP UNESP (Empresa Junior da Computação)
 ## Estudante de Ciência da Computação UNESP - Presidente Prudente
 ### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
-### Atualmente focando FullStack 
 
 <div>
   <a href="https://github.com/ceconcarlsen">
