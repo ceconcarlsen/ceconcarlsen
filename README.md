@@ -2,7 +2,6 @@
 ## Desenvolvedor FullStack - ReactJs/ReactNative/NodeJs
 ## Membro de desenvolvimento EJCOMP UNESP (Empresa Junior da Computação)
 ## Estudante de Ciência da Computação UNESP - Presidente Prudente
-### Gosto de tecnologia, economia e comportamento humano ༼ つ ◕_◕ ༽つ
 
 <div>
   <a href="https://github.com/ceconcarlsen">
