@@ -1,7 +1,8 @@
-# Olaaa! sou o Gabriel Cecon 🙋‍♂️
-## Desenvolvedor FullStack - ReactJs/ReactNative/NodeJs
-## Membro de desenvolvimento EJCOMP UNESP (Empresa Junior da Computação)
-## Estudante de Ciência da Computação UNESP - Presidente Prudente
+# Sup, i'm Gabriel 🙋‍♂️
+## FullStack Developer (TypeScript)
+## Currently focusing FullStack (MERN and PERN) / ReactNative
+## Interested at RedwoodJs, T3 Stack, tRPC
+## Computer Science Student at UNESP - Presidente Prudente - Brazil
 
 <div>
   <a href="https://github.com/ceconcarlsen">
