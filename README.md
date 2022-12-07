@@ -1,6 +1,6 @@
 # Sup, i'm Gabriel 🙋‍♂️
 ## FullStack Developer (TypeScript)
-## Currently focusing FullStack (MERN and PERN) / ReactNative
+## Currently focusing MERN / PERN / ReactNative
 ## Interested at RedwoodJs, T3 Stack, tRPC
 ## Computer Science Student at UNESP - Presidente Prudente - Brazil
 
