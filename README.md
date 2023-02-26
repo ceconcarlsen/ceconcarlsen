@@ -1,5 +1,5 @@
 # Sup, i'm Gabriel 🙋‍♂️
-## FullStack Developer (TypeScript)
+## FullStack Developer at MB Labs
 ## Currently focusing MERN / PERN / ReactNative
 ## Interested at Next, RedwoodJs, T3 Stack, tRPC
 ## Computer Science Student at UNESP - Presidente Prudente - Brazil
