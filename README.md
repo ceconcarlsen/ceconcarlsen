@@ -1,7 +1,7 @@
 # Sup, i'm Gabriel 🙋‍♂️
 ## FullStack Developer at MB Labs
 ## TypeScript enjoyer 
-## Computer Science Student at UNESP - Presidente Prudente - Brazil
+## Computer Science Student at UNESP
 
 <div>
   <a href="https://github.com/ceconcarlsen">
