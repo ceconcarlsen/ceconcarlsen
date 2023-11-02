@@ -1,6 +1,5 @@
 # Sup, i'm Gabriel 🙋‍♂️
 ## FullStack Developer at MB Labs
-## TypeScript, React, Next enjoyer 
 ## Computer Science Undergraduate at UNESP
 
 
