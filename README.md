@@ -1,5 +1,5 @@
 # Sup, i'm Gabriel 
-## FullStack Developer at MB Labs
+## FullStack Software Engineer at MB Labs
 ## Computer Science Undergraduate - UNESP
 
 
