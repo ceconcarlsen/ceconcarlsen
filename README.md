@@ -1,6 +1,5 @@
 # Sup, i'm Gabriel 
 ## FullStack Software Engineer at MB Labs
-## Exploring: Swift / Rust
 ## Computer Science Undergraduate - UNESP
 
 
