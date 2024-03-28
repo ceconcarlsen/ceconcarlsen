@@ -1,6 +1,6 @@
 # Sup, i'm Gabriel 
-## Software Engineer at MB Labs
-## Computer Science Undergraduate - UNESP
+## Software Engineer
+## Computer Science - UNESP
 
 
  <div>
