@@ -1,6 +1,6 @@
 # Sup, i'm Gabriel 
 ## Software Engineer - Mid-Level
-## Computer Science - UNESP
+## Bachelor`s degree in computer science - UNESP
 
 
  <div>
