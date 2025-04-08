@@ -1,5 +1,5 @@
 # Sup, i'm Gabriel 
-## Software Engineer
+## Full Stack Software Engineer
 ## Bachelor`s degree in computer science - UNESP
 
 
