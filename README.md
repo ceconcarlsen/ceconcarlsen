@@ -1,7 +1,5 @@
-# Sup, i'm Gabriel 
-## Full Stack Software Engineer
-## Computer Science Major - UNESP
-
+## Software Engineer
+## Computer Science Major
 
  <div>
   <a href = "mailto:ceconcarlsen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
