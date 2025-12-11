@@ -12,7 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceconcarlsen&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div> -->
 
-![3nRK](https://user-images.githubusercontent.com/38158538/127408394-ba373f62-117f-4cb0-96df-a5ebb7eb7891.gif)
 
  
  
