@@ -1,5 +1,6 @@
-## Senior Software Engineer 
-## Bachelor of Science in Computer Science (UNESP) 
+## Senior Software Engineer .
+## Currently working as a Full-Stack Developer at BRP.
+## Bachelor of Science in Computer Science (UNESP).
 
 
  <div>
