@@ -2,20 +2,33 @@
 
 ### Senior Software Engineer | Full-Stack Developer
 
-- 💻 Currently working as a **Full-Stack Developer at BRP**
+- 💻 Currently working as a **Senior Full-Stack Developer at BRP**
 - 🎓 B.Sc. in **Computer Science from UNESP**
-- 🏗️ Interested in **Software Architecture, Backend Engineering & System Design**
-- 🌱 Currently exploring **Go, DDD & Distributed Systems**
-- 🚀 Building software with a focus on **simplicity, scalability, and maintainability**
+- 🏛️ Pursuing a postgraduate specialization in **Software Architecture at FIAP**
+- ⚙️ Experienced in **enterprise applications, AEM, microservices, and cloud integrations**
+- 🌱 Currently exploring **Go, DDD, and Distributed Systems**
 
 ### 🛠️ Tech Stack
 
 ```text
-Frontend      → React · Next.js · TypeScript
-Backend       → Node.js · NestJS · Go
-Architecture  → DDD · Hexagonal · Clean Architecture
-Database      → PostgreSQL · Prisma
+Frontend      → React · Next.js · TypeScript · Redux-Saga
+Mobile        → React Native · Android · iOS
+Backend       → Node.js · NestJS · Java · Go · Python
+CMS           → Adobe Experience Manager · HTL · Sling · OSGi
+Architecture  → Microservices · DDD · Hexagonal · Clean Architecture
+APIs          → REST · GraphQL
+Cloud         → AWS · Azure · Firebase
+Database      → PostgreSQL · SQL · Firestore · Prisma
+DevOps        → Docker · CI/CD · Bitbucket Pipelines · Azure DevOps
+Security      → Okta · SSL Pinning · RSA · AES
 ```
+
+### 💼 What I've Worked On
+
+- 🏎️ **BRP:** Building enterprise web platforms, AEM components, backend microservices, and serverless integrations.
+- 📱 **Fintech:** Developing and maintaining mobile applications serving **200k+ active users**, with a focus on security and performance.
+- 💰 **Equity Crowdfunding:** Leading frontend development and designing white-label architectures for investment platforms.
+- ⚡ **Engineering:** Improving performance, automating workflows, and delivering scalable solutions across the stack.
 
 ### 📊 GitHub Activity
 
@@ -34,5 +47,3 @@ Database      → PostgreSQL · Prisma
 </a>
 
 ---
-
-*Building things. Breaking things. Learning along the way.*
