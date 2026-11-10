@@ -1,18 +1,38 @@
-## Senior Software Engineer .
-## Currently a Full-Stack Developer at BRP.
-## Bachelor of Science in Computer Science (UNESP).
+# Hey, I'm Gabriel! 👋
 
+### Senior Software Engineer | Full-Stack Developer
 
- <div>
-  <a href="https://www.linkedin.com/in/gabriel-cecon-carlsen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://stackoverflow.com/users/16525322/gabriel-cecon-carlsen" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"></a> 
- </div>
-<!-- <div>
-  <a href="https://github.com/ceconcarlsen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceconcarlsen&layout=compact&langs_count=7&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceconcarlsen&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</div> -->
+- 💻 Currently working as a **Full-Stack Developer at BRP**
+- 🎓 B.Sc. in **Computer Science from UNESP**
+- 🏗️ Interested in **Software Architecture, Backend Engineering & System Design**
+- 🌱 Currently exploring **Go, DDD & Distributed Systems**
+- 🚀 Building software with a focus on **simplicity, scalability, and maintainability**
 
+### 🛠️ Tech Stack
 
- 
- 
+```text
+Frontend      → React · Next.js · TypeScript
+Backend       → Node.js · NestJS · Go
+Architecture  → DDD · Hexagonal · Clean Architecture
+Database      → PostgreSQL · Prisma
+```
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ceconcarlsen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+### 🔗 Connect
+
+<a href="https://www.linkedin.com/in/gabriel-cecon-carlsen/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ceconcarlsen">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+*Building things. Breaking things. Learning along the way.*
