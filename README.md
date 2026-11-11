@@ -2,6 +2,8 @@
 
 ### Senior Software Engineer
 
+🌐 **Portfolio** · [ceconcarlsen.dev](https://ceconcarlsen.dev)
+
 - 💻 Currently working as a **Senior Full-Stack Developer at BRP**
 - 🎓 B.Sc. in **Computer Science from UNESP**
 - 🏛️ Pursuing a postgraduate specialization in **Software Architecture at FIAP**
