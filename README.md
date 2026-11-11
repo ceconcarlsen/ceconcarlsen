@@ -1,6 +1,6 @@
 # Hey, I'm Gabriel! 👋
 
-### Senior Software Engineer | Full-Stack Developer
+### Senior Software Engineer
 
 - 💻 Currently working as a **Senior Full-Stack Developer at BRP**
 - 🎓 B.Sc. in **Computer Science from UNESP**
